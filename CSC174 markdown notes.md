@@ -24,7 +24,9 @@ CSC 174 Advanced Front End Web Design
 * Color scheme comments
   * Agree that the red contrasts too heavily
   * The colors are nice, don't know the excessive white space
-  * See what the windy city has to offer banner text should be centered. The last two words __"to offer"__ are on the left part of its container, and look odd.
+  * ~~See what the windy city has to offer banner text should be centered. The last two words __"to offer"__ are on the left part of its container, and look odd.~~
+  * ~~removed underline to avoid confusion with hyperlink~~
+  * ~~reduced margin around .visit figures, too much white space~~
 * Layout
   * The elements of the website take up a little too much vertical space and not enough horizontal space in my opinion
 * Visuals
