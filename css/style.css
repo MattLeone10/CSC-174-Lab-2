@@ -174,13 +174,15 @@ h4 {margin-top: 5px;}
 .visit h2 {
 	background-color: #092534;
 	border-radius: 10px;
-	padding: 10px;
-	margin: 20px 0px 20px 0px;
+	padding: 2px;
+	margin: 5px 0px 5px 0px;
 	text-decoration: none;
 	text-align: center;
 }
 
 .visit figure {
+	margin-block-end: .2em;
+    margin-block-start: .2em;
 	background-color: #b3ddf2;
 	padding: 0px;
 	padding-top: 10px;
